@@ -1,0 +1,26 @@
+{
+  "name": "fadss-currency-converter",
+  "version": "1.0.0",
+  "description": "Npm package basic currency converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhamad-Fahad/fadss-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Fahad Saeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhamad-Fahad/fadss-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Muhamad-Fahad/fadss-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
